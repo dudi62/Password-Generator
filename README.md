@@ -16,6 +16,8 @@ This is a simple password generator application that creates secure passwords ba
 
 - `script.js`: This file contains the JavaScript code that powers the password generator. It includes functions for generating a random password and handling user input.
 
+![passwordgenerator](https://github.com/dudi62/Password-Generator/assets/63518444/8f29b5c0-f348-4c53-b3dc-5bce4e1d3c22)
+
 
 ## Usage
 
